@@ -3,7 +3,7 @@
 - 👀 Estou estudando algumas tecnologias.
 - 🌱 Como HTML5, CSS JavaScript dentre outras
 - 💞️ E Tambem irei aprender a utilizar alguns Frameworks como o Type e possivelmente Angular
-- 📫 Recutradores!! meu email é p: viniciusortis03@outlook.com, Atualmente trabalho como assistente de T.i E Suporte
+- 📫 Recutradores!! meu email é o: viniciusortis03@outlook.com, Atualmente trabalho como assistente de T.i E Suporte
 
 
 <div align="left">
