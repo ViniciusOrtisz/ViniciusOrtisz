@@ -1,11 +1,3 @@
-  ##👋 Olá eu sou o @ViniciusOrtisz
-  
-- 👀 Estou estudando algumas tecnologias.
-- 🌱 Como HTML5, CSS JavaScript dentre outras
-- 💞️ E Tambem irei aprender a utilizar alguns Frameworks como o Type e possivelmente Angular
-- 📫 Recutradores!! meu email é o: viniciusortis03@outlook.com, Atualmente trabalho como assistente de T.i E Suporte
-
-
 <div align="left">
   <a href="https://github.com/ViniciusOrtisz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusOrtisz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
